@@ -1,0 +1,12 @@
+{
+  "cookies": {"data": {"errorcode": "1",
+    "message": "成功"}},
+  "sde": {"id": "1","data": {"1111": "2222","errorcode": "2",
+    "message": "失败"}},
+  "get": {"data": {"errorcode": "1",
+    "message": "成功"}},
+  "ip": {"data": {"errorcode": "1",
+    "message": "成功"}},
+  "headers": {"data": {"errorcode": "1", "message": "成功"
+  }}
+}
